@@ -8,4 +8,4 @@ We will all collaboratively work on the ER Diagram and State Machine Diagram
 
 Alex will do the use case diagram for students adding a note to a submission
 
-
+Thunnathorne will do the state machine diagram
